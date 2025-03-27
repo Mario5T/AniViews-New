@@ -1,12 +1,32 @@
-# React + Vite
+# AniViews
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+AniViews is a modern web application for discovering and exploring anime content. Built with React, this platform offers a seamless experience for anime enthusiasts to browse, search, and keep track of their favorite anime series.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🏠 **Home Page**: Browse through a curated list of anime with a beautiful hero section
+- 🔥 **Trending Anime**: Stay updated with currently trending anime series
+- 📅 **Seasonal Anime**: Explore anime releases by seasons
+- 🎭 **Genre-based Navigation**: Browse anime by different genres
+- 🔐 **User Authentication**: Personal account creation and login functionality
+- 📱 **Responsive Design**: Fully responsive interface that works on all devices
 
-## Expanding the ESLint configuration
+## Technologies Used
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React.js
+- React Router v6
+- React Icons
+- Vercel (Deployment)
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js (v14 or higher)
+- npm or yarn
+
+### Installation
+
+1. Clone the repository
+```bash
+git clone <your-repository-url>
